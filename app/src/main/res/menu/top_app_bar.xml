@@ -1,0 +1,48 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/city_locate"
+        android:contentDescription="城市定位"
+        android:icon="@drawable/ic_locate_dark"
+        android:title="city_locate"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/locate"
+        android:contentDescription="经纬度定位"
+        android:icon="@drawable/ic_locate"
+        android:title="locate"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/cal_distance"
+        android:contentDescription="公里计算"
+        android:title="公里计算"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/clear"
+        android:contentDescription="清屏"
+        android:title="清屏"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/info"
+        android:contentDescription="个人信息"
+        android:title="个人信息"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/exit"
+        android:contentDescription="退出"
+        android:title="退出"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/about"
+        android:contentDescription="关于"
+        android:title="关于"
+        app:showAsAction="never" />
+
+</menu>

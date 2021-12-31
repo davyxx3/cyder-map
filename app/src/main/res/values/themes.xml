@@ -1,0 +1,17 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.Map" parent="Theme.Material3.Light.NoActionBar" />
+
+    <style name="Theme.Map.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Map.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.Map.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="SplashActivityTheme" parent="android:Theme.Holo.Light.NoActionBar">
+        <item name="android:windowBackground">@mipmap/splash</item>
+    </style>
+</resources>
