@@ -7,7 +7,7 @@
 
 - [Material Components](https://github.com/material-components/material-components-android)
 - [百度地图Android SDK](https://lbsyun.baidu.com/index.php?title=androidsdk)
-- 简单的SQLite
+- 简单的[SQLite](https://www.sqlite.org/index.html)
 
 
 
